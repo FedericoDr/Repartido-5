@@ -1,0 +1,46 @@
+*{
+   padding: 0;
+   margin: 0;
+   background: peru;
+}
+
+.Titulo{
+   border-radius: 10px;
+   margin: 1px 500px 1px 500px ;
+   padding: 10px;
+   border: 3px solid rgb(36, 36, 36);
+   background-color: rgba(122, 122, 122, 0.836);
+   color: rgb(0, 0, 0);
+   
+}
+
+h1{
+   border: solid rgb(116, 116, 116);
+   font-size: 50px;
+   margin: auto;
+   text-align: center;
+}
+   
+   
+table {
+   padding: 1px;
+   background: rgb(97, 97, 97);
+   width: 100%;
+   border: 1px solid rgb(0, 0, 0);
+}
+
+th, td {
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid rgb(0, 0, 0);
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+   background: rgb(192, 192, 192);
+   width: 60px;
+   vertical-align: top;
+}
+
+img{
+   background: rgb(192, 192, 192);
+}

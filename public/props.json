@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "titulo": "Pan",
+        "precio": "$53",
+        "imagen":"https://www.pngmart.com/files/16/Loaf-Bread-PNG-Transparent-Image.png",
+        "categoria": "Comestible",
+        "descripción":"Comida"
+                
+    },
+
+    {
+        "id": "2",
+        "titulo": "Pan",
+        "precio": "$53",
+        "imagen":"https://www.pngmart.com/files/16/Loaf-Bread-PNG-Transparent-Image.png",
+        "categoria": "Comestible",
+        "descripción":"Comida"
+    },
+
+    {
+        "id": "3",
+        "titulo": "Pan",
+        "precio": "$53",
+        "imagen":"https://www.pngmart.com/files/16/Loaf-Bread-PNG-Transparent-Image.png",
+        "categoria": "Comestible",
+        "descripción":"Comida"
+    },
+
+    {
+        "id": "4",
+        "titulo": "Pan",
+        "precio": "$53",
+        "imagen":"https://www.pngmart.com/files/16/Loaf-Bread-PNG-Transparent-Image.png",
+        "categoria": "Comestible",
+        "descripción":"Comida"
+    },
+
+    {
+        "id": "5",
+        "titulo": "Pan",
+        "precio": "$53",
+        "imagen":"https://www.pngmart.com/files/16/Loaf-Bread-PNG-Transparent-Image.png",
+        "categoria": "Comestible",
+        "descripción":"Comida"
+    },
+
+    {
+        "id": 6,
+        "titulo": "Pan",
+        "precio": "$53",
+        "imagen":"https://www.pngmart.com/files/16/Loaf-Bread-PNG-Transparent-Image.png",
+        "categoria": "Comestible",
+        "descripción":"Comida"
+    },
+
+    {
+        "id": "7",
+        "titulo": "Pan",
+        "precio": "$53",
+        "imagen":"https://www.pngmart.com/files/16/Loaf-Bread-PNG-Transparent-Image.png",
+        "categoria": "Comestible",
+        "descripción":"Comida"
+    }
+]
