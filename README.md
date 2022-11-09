@@ -2,9 +2,9 @@
 
 # Como descargar archivo
 
-- Ve al siguiente link https://github.com/z0paXp/Repartido-5
-- Presionamos botón CODE.
-- Saldrán opciones debemos presionar download zip.
+- Ve al siguiente link https://github.com/FedericoDr/Repartido-5
+- Presionamos botón `CODE`.
+- Saldrán opciones debemos presionar `download zip`.
 
 # Como empezar a usar el proyecto
 
